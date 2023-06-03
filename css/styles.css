@@ -219,7 +219,11 @@
     }
   
     #btn-projects {
-      padding: 0px;
+      display: none; 
+    }
+      
+    #footer {
+      display: none;   
     }
   
     .skills-box {
